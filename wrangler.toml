@@ -1,4 +1,4 @@
-name = "rubeus"
+name = "gateway"
 compatibility_date = "2024-12-05"
 main = "src/index.ts"
 compatibility_flags = [ "nodejs_compat" ]
